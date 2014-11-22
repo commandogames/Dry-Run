@@ -1,0 +1,12 @@
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\obj\Debug\Assembly-CSharp.dll
+C:\Users\Dale\Desktop\Dry-Run\GitHub Dry Run\obj\Debug\Assembly-CSharp.pdb
